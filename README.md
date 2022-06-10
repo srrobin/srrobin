@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayam Rahman Robin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="sayam rahman robin banner" height="300"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="center" alt="sayam rahman robin banner" height="300"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srrobin&label=Profile%20views&color=0e75b6&style=flat" alt="srrobin" /> </p>
 
